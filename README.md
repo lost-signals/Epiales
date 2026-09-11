@@ -126,7 +126,7 @@ dashboard/
 Debian/Kali block system-wide `pip` (PEP 668), so use a virtual environment.
 
 ```bash
-git clone <your-repo-url> epiales && cd epiales
+git clone https://github.com/lost-signals/Epiales.git && cd Epiales
 python3 -m venv .venv
 source .venv/bin/activate                 # prompt shows (.venv)
 pip install -r requirements.txt           # installs torch — this is the large one
