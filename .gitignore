@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+results.db
+report.html
+evidence_*.csv
+.DS_Store
